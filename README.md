@@ -1,2 +1,3 @@
-# fake-product-api-json-server
-Deploy at: https://fake-recipe-shopping-list.herokuapp.com/
+# Sneaker shop api json-server
+
+Deploy at: https://sneaker-shop-api.herokuapp.com/

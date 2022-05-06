@@ -1,7 +1,5 @@
-const bestSeller = require("./data/bestSeller");
-const sneakerDetail = require("./data/sneakerDetail");
+const sneakerList = require("./data/sneakerList");
 
 module.exports = {
-  bestSeller,
-  sneakerDetail,
+  sneakerList,
 }
